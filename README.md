@@ -1,7 +1,7 @@
 <h1 align="center">Myself, Abdul Moiz Khan</h1>
 <h3 align="center">3rd year computer science student || Passionate about turning coffee into code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aminsaffar&label=Profile%20views&color=0e75b6&style=flat" alt="Aminsaffar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Moiz-Khan1&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Moiz-Khan1" /> </p>
 
 - 🌱 I’m currently learning **Artificial Neural Network | Data Scraping**
 
