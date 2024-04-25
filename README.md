@@ -2,9 +2,7 @@
 <h3 align="center">3rd year computer science student || Passionate about turning coffee into code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Moiz-Khan1&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Moiz-Khan1" /> </p>
-<img align="right" alt="coding_gif" width = "400" src="![image](https://github.com/Abdul-Moiz-Khan1/Abdul-Moiz-Khan1/assets/136478539/3c32b8a8-ccf6-4708-8a17-651799e30cbf)
-
-">
+<img align="right" alt="coding_gif" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsamadpls%2FPrograming-Gifs&psig=AOvVaw3uap7xSn8ysRnOE0BqNZaZ&ust=1714160170826000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiK9rSO3oUDFQAAAAAdAAAAABAJ">
 
 - 🌱 I’m currently learning **Artificial Neural Network | Data Scraping**
 
