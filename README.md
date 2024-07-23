@@ -1,10 +1,10 @@
 <h1 align="center">Myself, Abdul Moiz Khan</h1>
-<h3 align="center">Final year Computer Science student || Passionate about turning coffee into code</h3>
+<h3 align="center">Final year Computer Science Student || Passionate about turning coffee into code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Moiz-Khan1&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Moiz-Khan1" /> </p>
 <img align="right" alt="coding" width = "300" src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43">
 
-- 🌱 I’m currently learning **Artificial Neural Network | Data Scraping | App Development**
+- 🌱 I’m currently learning **Artificial Neural Network | App Development**
 
 - 👯 I’m looking to collaborate on **Android development Projects**
 
