@@ -9,7 +9,7 @@
   
 - 👨‍💻 All of my projects are available on [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
 
-- 💬 Ask me about **Android development | Kotlin | sqlite | firebase | Api Integration**
+- 💬 Ask me about **Android development | Kotlin | Retrofit | firebase | Api Integration**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/](https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/)
 
