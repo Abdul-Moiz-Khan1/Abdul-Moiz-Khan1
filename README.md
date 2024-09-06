@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ab.moizkhan1@gmail.com**
   
-- 👨‍💻 All of my projects @ [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
+- 👨‍💻 All of my projects at [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
 
 - 💬 Ask me about **Android development | Kotlin |Java| Retrofit | firebase | Api Integration**
 
