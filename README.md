@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects @ [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
 
-- 💬 Ask me about **Android development | Kotlin |Java| Retrofit | firebase | Api Integration**
+- 💬 Ask me about **Android development | Kotlin |Java| Retrofit | firebase | Api Integration | Jetapack Compose**
 
 - 📄 Know about my experiences at [https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/](https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/)
 
