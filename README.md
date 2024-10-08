@@ -9,11 +9,11 @@
 
 - 📄 Visit my Portfolio @ https://abmoizkhan1.wixsite.com/my-site-3 
   
-- 👨‍💻 All of my projects at [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
+- 👨‍💻 All of my projects @ [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
 
 - 💬 Ask me about **Android development | Kotlin |Java| Retrofit | firebase | Api Integration | Jetapack Compose**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/](https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/)
+- 📄 Know about my experiences @ [https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/](https://www.linkedin.com/in/abdul-moiz-khan-22ab33280/)
 
 - ⚡ Fun fact **You either find me immersed in screens or Novels**
 
