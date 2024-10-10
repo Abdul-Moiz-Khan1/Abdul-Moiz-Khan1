@@ -9,7 +9,7 @@
 
 - 📄 Visit my Portfolio @ https://abmoizkhan1.wixsite.com/my-site-3 
   
-- 👨‍💻 All of my projects @ [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
+- 👨‍💻 All of my projects: [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
 
 - 💬 Ask me about **Android development | Kotlin |Java| Retrofit | firebase | Api Integration | Jetapack Compose**
 
