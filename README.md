@@ -1,4 +1,4 @@
-<h1 align="center">Myself, Abdul Moiz Khan</h1>
+<h1 align="center">Myself,Abdul Moiz Khan</h1>
 <h3 align="center">Final year Computer Science Student || Passionate about turning coffee into code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Moiz-Khan1&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Moiz-Khan1" /> </p>
