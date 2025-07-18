@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **ab.moizkhan1@gmail.com**
 
-- 📄 Visit my Portfolio at https://abmoizkhan1.wixsite.com/my-site-3 
+- 📄 Visit my Portfolio at https://abmoizkhan1.wixsite.com/moizkhan1
   
 - 👨‍💻 All of my projects at [https://github.com/Abdul-Moiz-Khan1?tab=repositories](https://github.com/Abdul-Moiz-Khan1?tab=repositories)
 
